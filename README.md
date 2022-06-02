@@ -1,2 +1,2 @@
 # map
-COLA402 leafletjs application
+COLA402 leafletjs practice
